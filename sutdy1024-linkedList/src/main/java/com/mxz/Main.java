@@ -10,7 +10,7 @@ package com.mxz;
  */
 public class Main {
     public static void main(String[] args) {
-        LinkedList linkedList = new LinkedList();
+        /*LinkedList linkedList = new LinkedList();
         linkedList.insert(1, 0);
         linkedList.insert(2, 1);
         linkedList.insert(3, 2);
@@ -22,6 +22,12 @@ public class Main {
         linkedList.insert(9, 8);
 
         System.out.println(linkedList.findKBack(3));
+*/
 
+
+
+        Integer a =200;
+        Integer b =200;
+        System.out.println(a == b);
     }
 }
